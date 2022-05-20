@@ -1,0 +1,7 @@
+{
+    "port": "COM11",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrisp",
+    "configuration": "cpu=atmega328old",
+    "sketch": "Arduino\\BasicEcho\\BasicEcho.ino"
+}
